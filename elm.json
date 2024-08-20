@@ -5,7 +5,10 @@
     "license": "EUPL-1.1",
     "version": "1.0.0",
     "exposed-modules": [
-        "Catppuccin.Latte"
+        "Catppuccin.Frappe",
+        "Catppuccin.Latte",
+        "Catppuccin.Macchiato",
+        "Catppuccin.Mocha"
     ],
     "elm-version": "0.19.1 <= v < 0.20.0",
     "dependencies": {
