@@ -1,0 +1,16 @@
+{
+    "type": "package",
+    "name": "noordstar/elm-palette",
+    "summary": "Collection of standard color palettes using ecosystem colors",
+    "license": "EUPL-1.1",
+    "version": "1.0.0",
+    "exposed-modules": [
+        "Catppuccin.Latte"
+    ],
+    "elm-version": "0.19.1 <= v < 0.20.0",
+    "dependencies": {
+        "avh4/elm-color": "1.0.0 <= v < 2.0.0",
+        "elm/core": "1.0.0 <= v < 2.0.0"
+    },
+    "test-dependencies": {}
+}
