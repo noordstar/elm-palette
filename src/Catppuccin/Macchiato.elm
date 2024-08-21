@@ -3,9 +3,11 @@ module Catppuccin.Macchiato exposing (rosewater, flamingo, pink, mauve, red, mar
 {-|
 
 
-# Catppuccin macchiatoflavors
+# Catppuccin macchiato flavor
 
-This module hosts the **macchiato** flavor of the Catppuccin color scheme.
+This module hosts the **macchiato** flavor of the Catppuccin color scheme. You can
+find an overview, a guide on how to use the colors and other resources on the
+[Catppuccin website](https://catppuccin.com/).
 
 @docs rosewater, flamingo, pink, mauve, red, maroon, peach, yellow, green, teal, sky, sapphire, blue, lavender, text, subtext1, subtext0, overlay2, overlay1, overlay0, surface2, surface1, surface0, base, mantle, crust
 
@@ -166,7 +168,7 @@ text =
 
 {-| Subtext 1
 
-![Subtext 1 color](<https://raw.githubusercontent.com/noordstar/elm-palette/main/img/macchiato/Subtext> 1.png)
+![Subtext 1 color](https://raw.githubusercontent.com/noordstar/elm-palette/main/img/macchiato/Subtext%201.png)
 
 -}
 subtext1 : C.Color
@@ -176,7 +178,7 @@ subtext1 =
 
 {-| Subtext 0
 
-![Subtext 0 color](<https://raw.githubusercontent.com/noordstar/elm-palette/main/img/macchiato/Subtext> 0.png)
+![Subtext 0 color](https://raw.githubusercontent.com/noordstar/elm-palette/main/img/macchiato/Subtext%200.png)
 
 -}
 subtext0 : C.Color
@@ -186,7 +188,7 @@ subtext0 =
 
 {-| Overlay 2
 
-![Overlay 2 color](<https://raw.githubusercontent.com/noordstar/elm-palette/main/img/macchiato/Overlay> 2.png)
+![Overlay 2 color](https://raw.githubusercontent.com/noordstar/elm-palette/main/img/macchiato/Overlay%202.png)
 
 -}
 overlay2 : C.Color
@@ -196,7 +198,7 @@ overlay2 =
 
 {-| Overlay 1
 
-![Overlay 1 color](<https://raw.githubusercontent.com/noordstar/elm-palette/main/img/macchiato/Overlay> 1.png)
+![Overlay 1 color](https://raw.githubusercontent.com/noordstar/elm-palette/main/img/macchiato/Overlay%201.png)
 
 -}
 overlay1 : C.Color
@@ -206,7 +208,7 @@ overlay1 =
 
 {-| Overlay 0
 
-![Overlay 0 color](<https://raw.githubusercontent.com/noordstar/elm-palette/main/img/macchiato/Overlay> 0.png)
+![Overlay 0 color](https://raw.githubusercontent.com/noordstar/elm-palette/main/img/macchiato/Overlay%200.png)
 
 -}
 overlay0 : C.Color
@@ -216,7 +218,7 @@ overlay0 =
 
 {-| Surface 2
 
-![Surface 2 color](<https://raw.githubusercontent.com/noordstar/elm-palette/main/img/macchiato/Surface> 2.png)
+![Surface 2 color](https://raw.githubusercontent.com/noordstar/elm-palette/main/img/macchiato/Surface%202.png)
 
 -}
 surface2 : C.Color
@@ -226,7 +228,7 @@ surface2 =
 
 {-| Surface 1
 
-![Surface 1 color](<https://raw.githubusercontent.com/noordstar/elm-palette/main/img/macchiato/Surface> 1.png)
+![Surface 1 color](https://raw.githubusercontent.com/noordstar/elm-palette/main/img/macchiato/Surface%201.png)
 
 -}
 surface1 : C.Color
@@ -236,7 +238,7 @@ surface1 =
 
 {-| Surface 0
 
-![Surface 0 color](<https://raw.githubusercontent.com/noordstar/elm-palette/main/img/macchiato/Surface> 0.png)
+![Surface 0 color](https://raw.githubusercontent.com/noordstar/elm-palette/main/img/macchiato/Surface%200.png)
 
 -}
 surface0 : C.Color
